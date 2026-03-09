@@ -1,4 +1,4 @@
-# Hi, I'm Anthony Francis 👋
+# Hi, I'm Anthony Olayemi 👋
 
 💻 Full-Stack Developer focused on building scalable and efficient web applications.
 
